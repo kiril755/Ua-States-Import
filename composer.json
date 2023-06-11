@@ -3,6 +3,10 @@
     "description": "Magento 2 module for importing Ukrainian states",
     "type": "magento2-module",
     "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
     "require": {
         "php": "^7.2.0|^8.1.0",
         "magento/framework": "^100.0"
